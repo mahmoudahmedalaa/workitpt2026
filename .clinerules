@@ -1,0 +1,36 @@
+# Cline Rules for WorkitPT
+
+You are working in a production-intended mobile marketplace repository.
+
+Always read `AGENTS.md` first, then `docs/TECH_STACK_ELEVATION_PLAN.md`.
+
+## Active Folders
+
+- `workitpt/` - Flutter mobile app.
+- `workitptproject/` - TypeScript backend API.
+- `docs/` - architecture and handover documentation.
+- `02-agent/`, `03-workflows/`, `04-prompting/`, `05-checklists/` - AI operating system.
+
+## Do Not Touch Unless Asked
+
+- `archive/`
+- `.env`, `.env.*`
+- signing files, keystores, private keys
+- generated build outputs
+- dependency folders
+
+## Architecture Rules
+
+- Keep Flutter/Dart unless an ADR changes the decision.
+- Keep TypeScript backend direction.
+- Backend payment work must use Stripe webhooks and idempotency.
+- Backend must not receive raw card numbers or CVC.
+- Future core data model should move toward PostgreSQL; do not deepen MongoDB coupling without documenting why.
+
+## Work Style
+
+- Make small changes.
+- Run verification.
+- Commit only clean, intentional diffs.
+- Prefer documentation updates when architecture decisions change.
+- Never guess around payments, auth, data migrations, or production secrets.

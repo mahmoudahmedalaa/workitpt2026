@@ -2,6 +2,10 @@
   "name": "workitpt",
   "version": "1.0.0",
   "description": "",
+  "packageManager": "yarn@1.22.22",
+  "engines": {
+    "node": ">=20"
+  },
   "main": "dist/server.js",
   "husky": {
     "hooks": {
