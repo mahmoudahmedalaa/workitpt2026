@@ -2,7 +2,12 @@
 
 You are working in a production-intended mobile marketplace repository.
 
-Always read `AGENTS.md` first, then `docs/TECH_STACK_ELEVATION_PLAN.md`.
+Always read `AGENTS.md` first, then:
+
+- `docs/TECHNICAL_RECOMMENDATIONS.md`
+- `docs/PLATFORM_ELEVATION_MASTER_PLAN.md`
+- `docs/COMPONENT_REVAMP_TASK_INDEX.md`
+- `docs/TECH_STACK_ELEVATION_PLAN.md`
 
 ## Active Folders
 

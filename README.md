@@ -21,7 +21,12 @@ This repository is the new clean working foundation for the 2026 rebuild and har
 
 ## Current Technical Direction
 
-Read [docs/TECH_STACK_ELEVATION_PLAN.md](docs/TECH_STACK_ELEVATION_PLAN.md) before making architecture decisions.
+Read these before making architecture decisions:
+
+- [docs/TECHNICAL_RECOMMENDATIONS.md](docs/TECHNICAL_RECOMMENDATIONS.md) - target-state recommendations.
+- [docs/PLATFORM_ELEVATION_MASTER_PLAN.md](docs/PLATFORM_ELEVATION_MASTER_PLAN.md) - execution order.
+- [docs/COMPONENT_REVAMP_TASK_INDEX.md](docs/COMPONENT_REVAMP_TASK_INDEX.md) - component-by-component task list.
+- [docs/TECH_STACK_ELEVATION_PLAN.md](docs/TECH_STACK_ELEVATION_PLAN.md) - original detailed assessment.
 
 The short version:
 
@@ -84,10 +89,12 @@ flutter build appbundle --flavor prod --dart-define=flavor=prod
 Before any AI agent changes code, it must read:
 
 1. [AGENTS.md](AGENTS.md)
-2. [docs/TECH_STACK_ELEVATION_PLAN.md](docs/TECH_STACK_ELEVATION_PLAN.md)
-3. [02-agent/AGENTS.md](02-agent/AGENTS.md)
-4. [03-workflows/DEVELOPMENT.md](03-workflows/DEVELOPMENT.md)
-5. [03-workflows/TESTING.md](03-workflows/TESTING.md)
+2. [docs/TECHNICAL_RECOMMENDATIONS.md](docs/TECHNICAL_RECOMMENDATIONS.md)
+3. [docs/PLATFORM_ELEVATION_MASTER_PLAN.md](docs/PLATFORM_ELEVATION_MASTER_PLAN.md)
+4. [docs/COMPONENT_REVAMP_TASK_INDEX.md](docs/COMPONENT_REVAMP_TASK_INDEX.md)
+5. [02-agent/AGENTS.md](02-agent/AGENTS.md)
+6. [03-workflows/DEVELOPMENT.md](03-workflows/DEVELOPMENT.md)
+7. [03-workflows/TESTING.md](03-workflows/TESTING.md)
 
 For Cline/DeepSeek, also read [.clinerules](.clinerules).
 

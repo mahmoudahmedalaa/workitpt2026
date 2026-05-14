@@ -8,6 +8,9 @@
 ## Documentation
 
 - `docs/TECH_STACK_ELEVATION_PLAN.md` - master architecture plan.
+- `docs/TECHNICAL_RECOMMENDATIONS.md` - target-state recommendations.
+- `docs/PLATFORM_ELEVATION_MASTER_PLAN.md` - ordered execution plan.
+- `docs/COMPONENT_REVAMP_TASK_INDEX.md` - granular task list for AI agents.
 - `docs/AI_HANDOVER.md` - current continuity notes for AI agents.
 - `docs/PROJECT_MAP.md` - this file.
 

@@ -25,11 +25,12 @@ Key decisions:
 
 ## Immediate Next Work
 
-1. Make CI pass consistently.
-2. Remove hardcoded mobile environment secrets/URLs.
-3. Add backend validation and OpenAPI.
-4. Add first tests around auth, booking, and payments.
-5. Create ADRs before data/payment architecture changes.
+1. Use `docs/COMPONENT_REVAMP_TASK_INDEX.md` to pick one scoped component task.
+2. Start with Phase 1 from `docs/PLATFORM_ELEVATION_MASTER_PLAN.md`: quality gates and tests.
+3. Remove hardcoded mobile environment secrets/URLs.
+4. Add backend validation and OpenAPI.
+5. Add first tests around auth, booking, and payments.
+6. Create ADRs before data/payment architecture changes.
 
 ## Known Risks
 
@@ -52,3 +53,13 @@ Notes:
 
 - Backend Firebase Admin config no longer imports a private `fbServices.json`; it builds from env-driven credentials.
 - CI uses Flutter 3.13.9 and Node 20 as the current legacy baseline.
+
+## 2026-05-15 Elevation Planning Pass
+
+Added:
+
+- `docs/TECHNICAL_RECOMMENDATIONS.md`
+- `docs/PLATFORM_ELEVATION_MASTER_PLAN.md`
+- `docs/COMPONENT_REVAMP_TASK_INDEX.md`
+
+These split the earlier assessment into target-state recommendations, ordered implementation phases, and granular component tasks for Cline/DeepSeek.

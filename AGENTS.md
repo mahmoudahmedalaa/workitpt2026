@@ -17,13 +17,16 @@ Read this before touching code. This repository is being prepared for a professi
 
 Before implementation, read these files in order:
 
-1. `docs/TECH_STACK_ELEVATION_PLAN.md`
-2. `02-agent/AGENTS.md`
-3. `02-agent/rules/AUTONOMY.md`
-4. `02-agent/rules/CODE_QUALITY.md`
-5. `02-agent/rules/SECURITY.md`
-6. `03-workflows/DEVELOPMENT.md`
-7. `03-workflows/TESTING.md`
+1. `docs/TECHNICAL_RECOMMENDATIONS.md`
+2. `docs/PLATFORM_ELEVATION_MASTER_PLAN.md`
+3. `docs/COMPONENT_REVAMP_TASK_INDEX.md`
+4. `docs/TECH_STACK_ELEVATION_PLAN.md`
+5. `02-agent/AGENTS.md`
+6. `02-agent/rules/AUTONOMY.md`
+7. `02-agent/rules/CODE_QUALITY.md`
+8. `02-agent/rules/SECURITY.md`
+9. `03-workflows/DEVELOPMENT.md`
+10. `03-workflows/TESTING.md`
 
 ## Non-Negotiables
 
