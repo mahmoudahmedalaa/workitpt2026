@@ -1,0 +1,19 @@
+node_modules
+package-lock.json
+
+# environment file
+.env
+.env.*
+!.env.example
+.cred
+
+# production
+/build
+/dist
+
+#temp
+/tmp
+
+#media files
+/public
+/.DS_Store

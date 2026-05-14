@@ -1,0 +1,12 @@
+# This file is used to configure the Shorebird updater used by your application.
+# Learn more at https://shorebird.dev
+# This file should be checked into version control.
+
+# This is the unique identifier assigned to your app.
+# It is used by your app to request the correct patches from Shorebird servers.
+app_id: 7d1236eb-4319-40f4-860c-6221120c8648
+flavors:
+  dev: 7d1236eb-4319-40f4-860c-6221120c8648
+  flavorName: b54d7835-f624-48eb-84d7-73e89ce2cdb1
+  prod: 36e5325c-9b21-4952-90b4-41fe5ebcd39a
+  uat: b6278504-1991-4cca-81ac-5308e70a74bd

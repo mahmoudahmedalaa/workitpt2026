@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "483932268453",
+    "project_id": "workitpt-dev",
+    "storage_bucket": "workitpt-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483932268453:android:ca2d777285e1618b8aea4c",
+        "android_client_info": {
+          "package_name": "com.app.workitpt.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483932268453-3ktm23vq2bcq0fspgser2osis3q6epv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.workitpt.dev",
+            "certificate_hash": "16a39dcab2133d0499d864dee8c362f8ef0c9933"
+          }
+        },
+        {
+          "client_id": "483932268453-4tj13kg536vaa5mn0psqi2q3ikgohfrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.workitpt.dev",
+            "certificate_hash": "d3880cf8401f867ab800b6e1397f231b9a11ba8c"
+          }
+        },
+        {
+          "client_id": "483932268453-fk1voo5tbdfoi1pa9lann6toerj6lo25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLlAnGoz932viEbrTh0N8qAdiJHLAJGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483932268453-fk1voo5tbdfoi1pa9lann6toerj6lo25.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483932268453-54d5tq2j7mic85i6i2ttttikeonjqrnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.workitpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

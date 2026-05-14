@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "470549648120",
+    "project_id": "workitpt-21452",
+    "storage_bucket": "workitpt-21452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470549648120:android:7746fe2c6b13506364610d",
+        "android_client_info": {
+          "package_name": "com.app.workitpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470549648120-7mk9h2ic243qlkjket025irt68l8rvuh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.workitpt",
+            "certificate_hash": "16a39dcab2133d0499d864dee8c362f8ef0c9933"
+          }
+        },
+        {
+          "client_id": "470549648120-e3k6fikot364frmnnr7d6v4g36ktn16t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.workitpt",
+            "certificate_hash": "cf5d64ecbc97ff5fc84df91944c718a157c4ad7c"
+          }
+        },
+        {
+          "client_id": "470549648120-v0g9rklnes2kf74lqjp7vurtgu614d2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.workitpt",
+            "certificate_hash": "d3880cf8401f867ab800b6e1397f231b9a11ba8c"
+          }
+        },
+        {
+          "client_id": "470549648120-4vj7rl8rsaj53p7p1ivaf8ag7koogehg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJ8GuLLCqCS9yQtl1tldoZFkdTBSyGYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470549648120-4vj7rl8rsaj53p7p1ivaf8ag7koogehg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470549648120-r4ejt2far35kd3uqjib6bfuu3oagfb59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.workitpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
